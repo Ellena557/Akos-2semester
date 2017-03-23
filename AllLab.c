@@ -1,7 +1,7 @@
 /*
  ============================================================================
  Name        : Lab1.c
- Author      : Elena
+ Author      : Elena Gorskaya
  Version     :
  Copyright   : Your copyright notice
  Description : Hello World in C, Ansi-style
