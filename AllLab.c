@@ -1,10 +1,10 @@
 /*
  ============================================================================
- Name        : Lab1.c
+ Name        : AllLab.c
  Author      : Elena Gorskaya
  Version     :
- Copyright   : Your copyright notice
- Description : Hello World in C, Ansi-style
+ Copyright   : 
+ Description : The 1st Lab with some functions
  ============================================================================
  */
 
