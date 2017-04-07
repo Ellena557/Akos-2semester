@@ -92,7 +92,7 @@ void _mkdirPrimary(int argc, char **argv) {
 	}
 }
 
-void _w() { //not working final-- it will be done later!
+void _w() { // This function is in another file called "Function_w.c" in this repository
 	printf("USER\tTTY\tFROM\tLOGIN\tIDLE\tJCPU\tPCPU\tWHAT\n");
 	int fd;
 	struct utmp record;
